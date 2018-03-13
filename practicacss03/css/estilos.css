@@ -1,0 +1,12 @@
+body{
+	font-size: 16px; /*1em*/
+	margin: 0 auto;
+	max-width: 1024px;
+	min-width: 1024px;
+}
+header input {
+	float: left;
+}
+header img{
+	float: left;
+}
